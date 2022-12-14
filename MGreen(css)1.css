@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<h1>MARKETGREEN</h1>
+    <style>
+        h1 {color: #556B2F; border: 1px; font-size: 50px; text-align: center; background-color: #BDB76B}
+        h2 {color: #556B2F; font-size: 25px; font-style: Arial;text-align: center}
+        p {font-size: 20px; font-style: Arial; text-align: center}
+        h3 {color: #556B2F; font-style: Arial; text-align: center}
+        button {text-align: center}
+</style>
+</head>
+<body>
+    <h2><strong>Bem Vindo ao seu novo negócio!</strong></h2>
+    <a href="file:///C:/Users/colib/Documents/TAREFAS%20FIAP/SUBLIME/test/P%C3%A1gina.inicial.html">
+    <img src="MarketGreen.jpg
+
+
+    ";width="400"; height="400"; title="clique para voltar a página inicial">
+</a>
+
+    <p> O MarketGreen é um ambiente para empreendedores de fitocosméticos, buscando aumentar suas vendas, 
+    engajamento e organização nas postagens. Fornecemos o melhor espaço virtual incentivando seu aumento de faturamento, 
+    entregando produtos naturais benéficos para a saúde e beleza. Nosso MarketPlace permite que você crie seu espaço, 
+    estabeleça seus recursos, encoraje a vender cada vez mais seus produtos e obtenha apoio necessário com o nosso time MarketGreen.
+    Temos uma novidade ainda melhor:</p>
+
+    <h3><strong>SEJA O TOP 1 NA CAPA DO SITE, EFETUANDO UM SIMBÓLICO DE R$30,00 EM CADA MÊS E VERÁ SUA LOJA EM PRIMEIRA BUSCA.</strong></h3>
+
+    <button><nav>CADASTRO</nav></button>
+
+</body>
+</html>
